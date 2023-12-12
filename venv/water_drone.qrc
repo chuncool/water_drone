@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="pictures">
+    <file>water_drone.png</file>
+    <file>arrow (1).png</file>
+    <file>arrow (2).png</file>
+    <file>arrow (3).png</file>
+    <file>arrow (5).png</file>
+    <file>arrow.png</file>
+    <file>stop.png</file>
+  </qresource>
+  <qresource prefix="ui">
+    <file>UI.py</file>
+  </qresource>
+</RCC>
